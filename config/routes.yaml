@@ -1,6 +1,6 @@
 controllers:
     resource:
         path: ../src/Controller/
-        namespace: Demo\Controller
+        namespace: MsDemo\Controller
     type: attribute
     prefix: /demo
